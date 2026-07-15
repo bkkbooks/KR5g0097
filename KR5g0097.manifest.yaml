@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5g0097/v1
 canonical_location: https://kanripo.org/bkk/KR5g0097/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 元辰章醮立成曆
   identifiers:
@@ -33,11 +33,11 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR5g0097_000.yaml, hash: 'sha256:1ec657b4a85bfe452baced756dd289eb4d4d44b67351218952c433aeab8dfae8'}
-  - {seq: 1, filename: KR5g0097_001.yaml, hash: 'sha256:cce6757ff843453c16baeed5d30c95f14fe13e45061f726c29d93bbb53238140'}
-  - {seq: 2, filename: KR5g0097_002.yaml, hash: 'sha256:52b0f1cfc6d6113ae516afc5b787671eb3e2a188230abc8cdbc80d9cff5f8ef8'}
+  - {seq: 1, filename: KR5g0097_001.yaml, hash: 'sha256:6c346663e1348bf0891c7852da521e0c5df242d9d4e75104d46bca78919d5d92'}
+  - {seq: 2, filename: KR5g0097_002.yaml, hash: 'sha256:ff9a8b5c926e645ae11f0aa91dc970a5cfbf1da036d61867565e9e681ececcbd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5g0097_001.markers.yaml, hash: 'sha256:3f3be3041caf4d1adc5c14d28c81b5d754f1b3c962fd028ad0d5c77cd100334e'}
-  - {seq: 2, role: markers, filename: assets/KR5g0097_002.markers.yaml, hash: 'sha256:33764ab802afde60d2997a938cefdc59c4f22ce00b4fe46d9e2d68b39052f75a'}
+  - {seq: 1, role: markers, filename: assets/KR5g0097_001.markers.yaml, hash: 'sha256:c7fd8da53c5d41ad52aef7b1626ef69615c49a82e183d746422032ca5cf80279'}
+  - {seq: 2, role: markers, filename: assets/KR5g0097_002.markers.yaml, hash: 'sha256:c58cf072f43c805e92d5d863b7ee0453018acefa20f332da3d1f843b98164908'}
 table_of_contents:
 - ref:
     seq: 1
@@ -59,4 +59,7 @@ table_of_contents:
   label: juan 002
   type: section
   level: 1
-hash: sha256:67f574ede413a5cf243e4d7eefe64d7ba108ccc713d863e045033b260c5b2e63
+hash: sha256:3434f0d32b9ba7a84903f30867657dde31a172d6480b9a40f9ffe6a46bfd96a4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
